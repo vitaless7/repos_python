@@ -53,7 +53,7 @@ print("O resultado da potência é:", potencia)
 
 # 9. Faça um programa que converta a temperatura de Celsius para Fahrenheit.
 celcius = float(input("Digite a temperatura em Celsius: "))
-fahrenheit = (celsius * 9/5) + 32
+fahrenheit = (celcius * 9/5) + 32
 print(f"{celcius}ºC é igual a {fahrenheit}ºF")
 
 
